@@ -1,0 +1,84 @@
+N = 1000; MAX = 1000000
+BUBBLE SORT: 
+Timpul de executare: 0.052002 secunde. Sirul a fost sortat corect. 
+COUNT SORT: 
+Timpul de executare: 0.031999 secunde. Sirul a fost sortat corect. 
+QUICK SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+MERGE SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+RADIX SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+
+N = 10000; MAX = 1000
+BUBBLE SORT: 
+Timpul de executare: 0.496035 secunde. Sirul a fost sortat corect. 
+COUNT SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+QUICK SORT: 
+Timpul de executare: 0.004001 secunde. Sirul a fost sortat corect. 
+MERGE SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+RADIX SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+
+N = 1000000; MAX = 100000
+BUBBLE SORT: 
+Nu putem sorta acest sir cu Bubble Sort. 
+COUNT SORT: 
+Timpul de executare: 0.003992 secunde. Sirul a fost sortat corect. 
+QUICK SORT: 
+Timpul de executare: 0.24 secunde. Sirul a fost sortat corect. 
+MERGE SORT: 
+Timpul de executare: 0.251958 secunde. Sirul a fost sortat corect. 
+RADIX SORT: 
+Timpul de executare: 0.052 secunde. Sirul a fost sortat corect. 
+
+N = 100000; MAX = 10000000
+BUBBLE SORT: 
+Nu putem sorta acest sir cu Bubble Sort. 
+COUNT SORT: 
+Nu putem sorta acest sir cu Count Sort. 
+QUICK SORT: 
+Timpul de executare: 0.016001 secunde. Sirul a fost sortat corect. 
+MERGE SORT: 
+Timpul de executare: 0.020001 secunde. Sirul a fost sortat corect. 
+RADIX SORT: 
+Timpul de executare: 0.008 secunde. Sirul a fost sortat corect. 
+
+N = 10; MAX = 10
+BUBBLE SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+COUNT SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+QUICK SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+MERGE SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+RADIX SORT: 
+Timpul de executare: 0 secunde. Sirul a fost sortat corect. 
+
+N = 50000; MAX = 999999
+BUBBLE SORT: 
+Nu putem sorta acest sir cu Bubble Sort. 
+COUNT SORT: 
+Timpul de executare: 0.004 secunde. Sirul a fost sortat corect. 
+QUICK SORT: 
+Timpul de executare: 0.011998 secunde. Sirul a fost sortat corect. 
+MERGE SORT: 
+Timpul de executare: 0.008001 secunde. Sirul a fost sortat corect. 
+RADIX SORT: 
+Timpul de executare: 0.004 secunde. Sirul a fost sortat corect. 
+
+N = 600000; MAX = 20000
+BUBBLE SORT: 
+Nu putem sorta acest sir cu Bubble Sort. 
+COUNT SORT: 
+Timpul de executare: 0.004001 secunde. Sirul a fost sortat corect. 
+QUICK SORT: 
+Timpul de executare: 0.148016 secunde. Sirul a fost sortat corect. 
+MERGE SORT: 
+Timpul de executare: 0.144006 secunde. Sirul a fost sortat corect. 
+RADIX SORT: 
+Timpul de executare: 0.023996 secunde. Sirul a fost sortat corect. 
+
